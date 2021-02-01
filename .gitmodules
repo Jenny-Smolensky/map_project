@@ -4,3 +4,6 @@
 [submodule "map_server"]
 	path = map_server
 	url = https://github.com/Jenny-Smolensky/map_server
+[submodule "entities_creator"]
+	path = entities_creator
+	url = https://github.com/Jenny-Smolensky/entities_creator
